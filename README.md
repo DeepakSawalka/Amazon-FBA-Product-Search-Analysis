@@ -15,7 +15,7 @@ Run each and every block to get the final output.
 
 ## Collaborators:
 
-01. Deepak Sawalka| [LinkedIn](https://www.linkedin.com/in/deepak-sawalka/) | [Github](https://github.com/DEEPAK-92130)
+01. Deepak Sawalka| [LinkedIn](https://www.linkedin.com/in/deepak-sawalka/) | [Github](https://github.com/DeepakSawalka)
 02. Lester Rodrigues | [LinkedIn]( https://www.linkedin.com/in/lester-rodrigues-2001/) | [Github](https://github.com/rodrigueslesterLML)
 03. Clare Rebello | [LinkedIn](https://www.linkedin.com/in/clarerebello09/) | [Github]( https://github.com/clare0901)
 04. Rahul Perera | [LinkedIn](https://www.linkedin.com/in/rahul-pereira) | [Github](https://github.com/raulforreal)
